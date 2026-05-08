@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c1ndyhernandez&label=Profile%20views&color=0e75b6&style=flat" alt="c1ndyhernandez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c1ndyhernandez" alt="c1ndyhernandez" /></a> </p>
 
 - 🔭 I’m currently working on **TripleTen Program**
 
